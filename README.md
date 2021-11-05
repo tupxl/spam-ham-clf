@@ -11,7 +11,7 @@ The <b>task</b> in this project is to classify messages into spam or ham.
 </ul>
 
 ### First Approach 
-In this approach we used <b>Message Length and Number of Punctuation</b> as features.
+In this approach we used <b>Message Length and Punctuation Count</b> as features.
 
 ### Second Approach
 In this approach we used <b>Vectorizer</b> for text extraction 
