@@ -1,5 +1,5 @@
 # spam-ham-clf
-This project is part of the NLP course on udemy.\
+This project is part of the [NLP course](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) on udemy.\
 The <b>task</b> in this project is to classify messages into spam or ham.
 
 ## Approach
