@@ -2,6 +2,9 @@
 This project is part of the NLP course on udemy.\
 The <b>task</b> in this project is to classify messages into spam or ham.
 
+## Dataset
+![Dataset Head](asset/dataset_head.png)\
+This dataset has 5,572 messages, of which 4,825 messages are ham and the remaining 747 messages are spam.
 ## Approach
 ### Model
 <ul>
