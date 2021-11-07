@@ -22,3 +22,4 @@ In this approach we used <b>Vectorizer</b> for text extraction
 #### b. TFIDF Vectorizer
 
 ## Result
+Classification using message length and punctuation count features results in poor performance. Text extraction is an important step in classifying text. Feature extraction using Count Vectorizer results in better model performance compared to TF-IDF Vectorizer.
